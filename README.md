@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-- 👨‍💻 I'm currently graduated **B.Tech in Computer Engineering** from Techno India University, Kolkata
+- 👨‍💻 I'm currently pursuing **B.Tech in Computer Engineering** from Techno India University, Kolkata
 - 🚀 Passionate about **Full Stack Web Development**, **DSA**, and **Open Source**
 - 🌐 Skilled in **Java, C++, HTML, CSS, JavaScript, SQL** and frameworks like **Spring Boot, Bootstrap**
 - 🤺 Solved **100+ problems on LeetCode**
@@ -90,11 +90,11 @@ Developed a platform to connect donors and seekers. Tech stack: **PHP, HTML, CSS
   <a href="mailto:ranveergupta2396@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
   <a href="https://www.linkedin.com/in/pratyushgupta2396/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="https://github.com/pratyushgupta2396"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="https://leetcode.com/u/pratyushgupta2396/"><img src="https://skillicons.dev/icons?i=leetcode" height="40" /></a>
+  <a href="https://leetcode.com/u/pratyushgupta2396/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="40" title="LeetCode" /></a>
   <a href="https://twitter.com/pratyush2396"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
   <a href="https://www.instagram.com/pratyushgupta2396/"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
   <a href="https://www.facebook.com/pratyushgupta2396"><img src="https://skillicons.dev/icons?i=facebook" height="40" /></a>
- 
+  <a href="https://discordapp.com/users/pratyushgupta2396"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
 </p>
 
 ---
