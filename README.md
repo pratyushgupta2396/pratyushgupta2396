@@ -26,7 +26,7 @@
   <a href="https://leetcode.com/u/pratyushgupta2396/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="40" title="LeetCode" /></a>
   <a href="https://twitter.com/pratyush2396"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
   <a href="https://www.instagram.com/pratyushgupta2396/"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="https://www.facebook.com/pratyushgupta2396"><img src="https://img.icons8.com/fluency/40/00000rdapp.com/users/pratyushgupta2396"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
+  <a href="https://www.facebook.com/pratyushgupta2396"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" height="40" title="Facebook" /></a>
 </p>
 
 ---
