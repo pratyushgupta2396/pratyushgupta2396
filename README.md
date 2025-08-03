@@ -20,7 +20,7 @@
 ## 🧰 Technologies I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dsa,java,cpp,html,css,js,php,spring,bootstrap,git,github,postman,vscode,intellij,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=c,java,cpp,html,css,js,php,spring,bootstrap,git,github,postman,vscode,mysql,postgres" />
 </p>
 
 ---
