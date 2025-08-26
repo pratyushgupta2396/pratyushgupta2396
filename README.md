@@ -69,8 +69,11 @@ CGPA: 8.2 / 10
 
 ## 🏠 Projects
 
-### 🔹 Student Result Management System
-Built a web-based software for educational institutions to streamline admin tasks. Tech stack: **PHP, JS, HTML, CSS**.
+### 🎓 [Student Result Management System](https://github.com/pratyushgupta2396/srms)
+A full-featured Spring Boot Student Result Management System (SRMS) with Admin and Student dashboards, allowing management of students, subjects, marks, and results. Built with Thymeleaf, Spring Security, and PostgreSQL.
+
+### 🛒 [Swiggy InstaMart MVP](https://github.com/pratyushgupta2396/Shopping-Delivery)
+A **Minimum Viable Product (MVP)** simulation of **Swiggy InstaMart**, built as a hyperlocal grocery delivery system. This project models key user roles and their real-world operations including order placement, inventory requests, delivery tracking, and platform administration.
 
 ### 🔹 Online Blood Donor Platform
 Developed a platform to connect donors and seekers. Tech stack: **PHP, HTML, CSS, Bootstrap**.
