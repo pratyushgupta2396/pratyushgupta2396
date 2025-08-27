@@ -106,6 +106,7 @@ Developed a platform to connect donors and seekers. Tech stack: **PHP, HTML, CSS
 <p align="center">
   <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-Favorite%20Songs-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+    <a href ="https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx?si=ZSB_RnNhQpGsHFvFPuQYlA">
   </a>
 </p>
 
