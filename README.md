@@ -1,6 +1,8 @@
-<h1 align="center">Hi there! I'm Pratyush Gupta ✨</h1>
-<h3 align="center">Aspiring Full Stack Developer | Java Enthusiast | Problem Solver</h3>
-
+<p align="center">
+  <img src="https://github.com/pratyushgupta2396/pratyushgupta2396/blob/main/image.png" 
+       alt="Header" 
+       width="100%" />
+</p>
 <p align="center">
   <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=450&lines=Web+Developer+%7C+Java+%7C+SpringBoot;Open+Source+Enthusiast;Loves+Problem+Solving+%26+DSA" alt="Typing SVG" />
 </p>
