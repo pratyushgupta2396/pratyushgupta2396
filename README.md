@@ -78,8 +78,8 @@ A full-featured Spring Boot Student Result Management System (SRMS) with Admin a
 ### 🛒 [Swiggy InstaMart MVP](https://github.com/pratyushgupta2396/Shopping-Delivery)
 A **Minimum Viable Product (MVP)** simulation of **Swiggy InstaMart**, built as a hyperlocal grocery delivery system. This project models key user roles and their real-world operations including order placement, inventory requests, delivery tracking, and platform administration.
 
-### 🔹 Online Blood Donor Platform
-Developed a platform to connect donors and seekers. Tech stack: **PHP, HTML, CSS, Bootstrap**.
+###  🛒 [Cartify Backend](https://github.com/pratyushgupta2396/cartify-backend)
+This project is a complete backend system for an E-commerce application built with Spring Boot. It includes JWT-based authentication, role-based access control, product and category management, cart functionality, order processing, and Restful APIs. Designed with clean architecture and best practices for scalability and security.
 
 ---
 
